@@ -11,8 +11,8 @@ const Home = (props) => {
     <>
       <div className="home-container">
         <Head>
-          <title>STARBUKS KERALA</title>
-          <meta property="og:title" content="STARBUKS KERALA" />
+          <title>STARBUKS KERALA - HOME</title>
+          <meta property="og:title" content="STARBUKS KERALA - HOME" />
         </Head>
         <div className="home-navbar">
           <header
